@@ -6,6 +6,6 @@ Actualmente trabajo en [OnTheGoSystems](https://onthegosystems.com/team/luis-sac
 
 Entre mis proyectos personales, me gustaría destacar:
 
-- [TimePass](https://github.com/displaynone/timepass)
+- [Shield Authenticator](https://github.com/displaynone/shield-authenticator)
 - [Nautilus Movie Thumbnailer](https://github.com/displaynone/nautilus-movie-thumbnailer)
 
