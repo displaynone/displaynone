@@ -9,5 +9,5 @@ Entre mis proyectos personales, me gustaría destacar:
 - [Shield Authenticator](https://github.com/displaynone/shield-authenticator): una alternativa open source de Google Authenticator
 - [Podcast It](https://github.com/displaynone/podcast-it): convierte un enlace YouTube para escucharlo como un podcast
 - [Nautilus Movie Thumbnailer](https://github.com/displaynone/nautilus-movie-thumbnailer): una pequeña utilidad para Nautilus que mostrar las películas que tengo guardades con capturas de IMDB
-- [Baja YT](https://github.com/displaynone/nautilus-movie-thumbnailer): una app que permite bajarte vídeos de Youtube (video o solo audio)
+- [Baja YT](https://github.com/displaynone/bajayt): una app que permite bajarte vídeos de Youtube (video o solo audio)
 
