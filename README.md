@@ -12,3 +12,4 @@ Entre mis proyectos personales, me gustaría destacar:
 - [Baja YT](https://github.com/displaynone/bajayt): una app que permite bajarte vídeos de Youtube (video o solo audio)
 - [checkweb](https://github.com/displaynone/checkweb): comprueba si una web está online y, en ese caso, manda un mensaje de Telegram.
 
+[English version](./README_EN.md)
