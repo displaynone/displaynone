@@ -7,6 +7,7 @@ I'm currently working at [OnTheGoSystems](https://onthegosystems.com/team/luis-s
 Among my personal projects, I'd like to highlight:
 
 - [Shield Authenticator](https://github.com/displaynone/shield-authenticator): an open-source alternative to Google Authenticator.
+- [TapoNFC](https://github.com/displaynone/taponfc): allows to enable/disable Tapo cameras using NFC tags
 - [Podcast It](https://github.com/displaynone/podcast-it): converts a YouTube link to listen to it as a podcast.
 - [Nautilus Movie Thumbnailer](https://github.com/displaynone/nautilus-movie-thumbnailer): a small utility for Nautilus that displays the movies I have stored with captures from IMDB.
 - [Baja YT](https://github.com/displaynone/bajayt): an app that allows you to download YouTube videos (video or audio only).
