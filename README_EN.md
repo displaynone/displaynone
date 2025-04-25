@@ -12,3 +12,4 @@ Among my personal projects, I'd like to highlight:
 - [Nautilus Movie Thumbnailer](https://github.com/displaynone/nautilus-movie-thumbnailer): a small utility for Nautilus that displays the movies I have stored with captures from IMDB.
 - [Baja YT](https://github.com/displaynone/bajayt): an app that allows you to download YouTube videos (video or audio only).
 - [checkweb](https://github.com/displaynone/checkweb): checks if a website is online and, in that case, sends a Telegram message.
+- [cuentas](https://github.com/displaynone/cuentas/): a full-stack app (backend + frontend) to keep track of your bank account with precision.
